@@ -10,7 +10,7 @@ To run this service, you will need to install the following package(s):
 
 ## Architecture Diagram
 
-![Architecture Diagram](./system%20diagram.drawio.png)
+![Architecture Diagram](./system_diagram.png)
 
 ## Components
 
